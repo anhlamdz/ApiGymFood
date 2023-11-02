@@ -1,0 +1,2306 @@
+[
+  {
+    "id": 1,
+    "name": "Gạo nếp cái",
+    "Calories": 346,
+    "Protein": "8,6",
+    "Fat": "1,5",
+    "Carbonhydrates": "74,9",
+    "Weight": 100
+  },
+  {
+    "id": 2,
+    "name": "Gạo tẻ",
+    "Calories": 344,
+    "Protein": "7,9",
+    "Fat": "1,0",
+    "Carbonhydrates": "76,2",
+    "Weight": 100
+  },
+  {
+    "id": 3,
+    "name": "Bắp tươi",
+    "Calories": 196,
+    "Protein": "4,1",
+    "Fat": "2,3",
+    "Carbonhydrates": "39,6",
+    "Weight": 100
+  },
+  {
+    "id": 4,
+    "name": "Bánh bao",
+    "Calories": 219,
+    "Protein": "6,1",
+    "Fat": "0,5",
+    "Carbonhydrates": "47,5",
+    "Weight": 100
+  },
+  {
+    "id": 5,
+    "name": "Bánh tráng mỏng",
+    "Calories": 333,
+    "Protein": "4,0",
+    "Fat": "0,2",
+    "Carbonhydrates": "78,9",
+    "Weight": 100
+  },
+  {
+    "id": 6,
+    "name": "Bánh đúc",
+    "Calories": 52,
+    "Protein": "0,9",
+    "Fat": "0,3",
+    "Carbonhydrates": "11,3",
+    "Weight": 100
+  },
+  {
+    "id": 7,
+    "name": "Bánh mì",
+    "Calories": 249,
+    "Protein": "7,9",
+    "Fat": "0,8",
+    "Carbonhydrates": "52,6",
+    "Weight": 100
+  },
+  {
+    "id": 8,
+    "name": "Bánh phở",
+    "Calories": 141,
+    "Protein": "3,2",
+    "Fat": "0,0",
+    "Carbonhydrates": "32,1",
+    "Weight": 100
+  },
+  {
+    "id": 9,
+    "name": "Bún",
+    "Calories": 110,
+    "Protein": "1,7",
+    "Fat": "0,0",
+    "Carbonhydrates": "25,7",
+    "Weight": 100
+  },
+  {
+    "id": 10,
+    "name": "Củ sắn",
+    "Calories": 152,
+    "Protein": "1,1",
+    "Fat": "0,2",
+    "Carbonhydrates": "36,4",
+    "Weight": 100
+  },
+  {
+    "id": 11,
+    "name": "Củ từ",
+    "Calories": 92,
+    "Protein": "1,5",
+    "Fat": "0,0",
+    "Carbonhydrates": "21,5",
+    "Weight": 100
+  },
+  {
+    "id": 12,
+    "name": "Khoai lang",
+    "Calories": 119,
+    "Protein": "0,8",
+    "Fat": "0,2",
+    "Carbonhydrates": "28,5",
+    "Weight": 100
+  },
+  {
+    "id": 13,
+    "name": "Khoai lang nghệ",
+    "Calories": 116,
+    "Protein": "1,2",
+    "Fat": "0,3",
+    "Carbonhydrates": "27,1",
+    "Weight": 100
+  },
+  {
+    "id": 14,
+    "name": "Khoai môn",
+    "Calories": 109,
+    "Protein": "1,5",
+    "Fat": "0,2",
+    "Carbonhydrates": "25,2",
+    "Weight": 100
+  },
+  {
+    "id": 15,
+    "name": "Khoai tây",
+    "Calories": 92,
+    "Protein": "2,0",
+    "Fat": "0,0",
+    "Carbonhydrates": "21,0",
+    "Weight": 100
+  },
+  {
+    "id": 16,
+    "name": "Miến dong",
+    "Calories": 332,
+    "Protein": "0,6",
+    "Fat": "0,1",
+    "Carbonhydrates": "82,2",
+    "Weight": 100
+  },
+  {
+    "id": 17,
+    "name": "Bột sắn dây",
+    "Calories": 340,
+    "Protein": "0,7",
+    "Fat": "0,0",
+    "Carbonhydrates": "84,3",
+    "Weight": 100
+  },
+  {
+    "id": 18,
+    "name": "Khoai tây chiên",
+    "Calories": 525,
+    "Protein": "2,2",
+    "Fat": "35,4",
+    "Carbonhydrates": "49,3",
+    "Weight": 100
+  },
+  {
+    "id": 19,
+    "name": "Cùi dừa già",
+    "Calories": 368,
+    "Protein": "4,8",
+    "Fat": "36,0",
+    "Carbonhydrates": "6,2",
+    "Weight": 100
+  },
+  {
+    "id": 20,
+    "name": "Cùi dừa non",
+    "Calories": 40,
+    "Protein": "3,5",
+    "Fat": "1,7",
+    "Carbonhydrates": "2,6",
+    "Weight": 100
+  },
+  {
+    "id": 21,
+    "name": "Đậu đen (hạt)",
+    "Calories": 325,
+    "Protein": "24,2",
+    "Fat": "1,7",
+    "Carbonhydrates": "53,3",
+    "Weight": 100
+  },
+  {
+    "id": 22,
+    "name": "Đậu Hà lan (hạt)",
+    "Calories": 342,
+    "Protein": "22,2",
+    "Fat": "1,4",
+    "Carbonhydrates": "60,1",
+    "Weight": 100
+  },
+  {
+    "id": 23,
+    "name": "Đậu xanh",
+    "Calories": 328,
+    "Protein": "23,4",
+    "Fat": "2,4",
+    "Carbonhydrates": "53,1",
+    "Weight": 100
+  },
+  {
+    "id": 24,
+    "name": "Hạt điều",
+    "Calories": 605,
+    "Protein": "18,4",
+    "Fat": "46,3",
+    "Carbonhydrates": "28,7",
+    "Weight": 100
+  },
+  {
+    "id": 25,
+    "name": "Đậu phộng",
+    "Calories": 573,
+    "Protein": "27,5",
+    "Fat": "44,5",
+    "Carbonhydrates": "15,5",
+    "Weight": 100
+  },
+  {
+    "id": 26,
+    "name": "Mè",
+    "Calories": 568,
+    "Protein": "20,1",
+    "Fat": "46,4",
+    "Carbonhydrates": "17,6",
+    "Weight": 100
+  },
+  {
+    "id": 27,
+    "name": "Đậu phụ",
+    "Calories": 95,
+    "Protein": "10,9",
+    "Fat": "5,4",
+    "Carbonhydrates": "0,7",
+    "Weight": 100
+  },
+  {
+    "id": 28,
+    "name": "Thịt bê nạc",
+    "Calories": 85,
+    "Protein": "20,0",
+    "Fat": "0,5",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 29,
+    "name": "Thịt bò",
+    "Calories": 118,
+    "Protein": "21,0",
+    "Fat": "3,8",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 30,
+    "name": "Thịt mông chó",
+    "Calories": 338,
+    "Protein": "16,0",
+    "Fat": "30,4",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 31,
+    "name": "Thịt vai chó",
+    "Calories": 230,
+    "Protein": "18,0",
+    "Fat": "17,6",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 32,
+    "name": "Thịt dê nạc",
+    "Calories": 122,
+    "Protein": "20,7",
+    "Fat": "4,3",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 33,
+    "name": "Thịt gà ta",
+    "Calories": 199,
+    "Protein": "20,3",
+    "Fat": "13,1",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 34,
+    "name": "Thịt heo mỡ",
+    "Calories": 394,
+    "Protein": "14,5",
+    "Fat": "37,3",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 35,
+    "name": "Thịt heo nạc",
+    "Calories": 139,
+    "Protein": "19,0",
+    "Fat": "7,0",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 36,
+    "name": "Thịt heo ba chỉ",
+    "Calories": 260,
+    "Protein": "16,5",
+    "Fat": "21,5",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 37,
+    "name": "Thịt thỏ",
+    "Calories": 158,
+    "Protein": "21,5",
+    "Fat": "8,0",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 38,
+    "name": "Thịt vịt",
+    "Calories": 267,
+    "Protein": "17,8",
+    "Fat": "21,8",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 39,
+    "name": "Cật bò",
+    "Calories": 67,
+    "Protein": "12,5",
+    "Fat": "1,8",
+    "Carbonhydrates": "0,3",
+    "Weight": 100
+  },
+  {
+    "id": 40,
+    "name": "Cật heo",
+    "Calories": 81,
+    "Protein": "13,0",
+    "Fat": "3,1",
+    "Carbonhydrates": "0,3",
+    "Weight": 100
+  },
+  {
+    "id": 41,
+    "name": "Da heo",
+    "Calories": 118,
+    "Protein": "23,3",
+    "Fat": "2,7",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 42,
+    "name": "Giòheo bỏ xương",
+    "Calories": 230,
+    "Protein": "15,7",
+    "Fat": "18,6",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 43,
+    "name": "Bao tử bò",
+    "Calories": 97,
+    "Protein": "14,8",
+    "Fat": "4,2",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 44,
+    "name": "Bao tử heo",
+    "Calories": 85,
+    "Protein": "14,6",
+    "Fat": "2,9",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 45,
+    "name": "Đầu heo",
+    "Calories": 335,
+    "Protein": "13,4",
+    "Fat": "31,3",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 46,
+    "name": "Đuôi bò",
+    "Calories": 137,
+    "Protein": "19,7",
+    "Fat": "6,5",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 47,
+    "name": "Đuôi heo",
+    "Calories": 467,
+    "Protein": "10,8",
+    "Fat": "47,1",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 48,
+    "name": "Gan bò",
+    "Calories": 110,
+    "Protein": "17,4",
+    "Fat": "3,1",
+    "Carbonhydrates": "3,0",
+    "Weight": 100
+  },
+  {
+    "id": 49,
+    "name": "Gan gà",
+    "Calories": 111,
+    "Protein": "18,2",
+    "Fat": "3,4",
+    "Carbonhydrates": "2,0",
+    "Weight": 100
+  },
+  {
+    "id": 50,
+    "name": "Gan heo",
+    "Calories": 116,
+    "Protein": "18,8",
+    "Fat": "3,6",
+    "Carbonhydrates": "2,0",
+    "Weight": 100
+  },
+  {
+    "id": 51,
+    "name": "Gan vịt",
+    "Calories": 122,
+    "Protein": "17,1",
+    "Fat": "4,7",
+    "Carbonhydrates": "2,8",
+    "Weight": 100
+  },
+  {
+    "id": 52,
+    "name": "Gân chân bò",
+    "Calories": 124,
+    "Protein": "30,2",
+    "Fat": "0,3",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 53,
+    "name": "Lưỡi bò",
+    "Calories": 164,
+    "Protein": "13,6",
+    "Fat": "12,1",
+    "Carbonhydrates": "0,2",
+    "Weight": 100
+  },
+  {
+    "id": 54,
+    "name": "Lưỡi heo",
+    "Calories": 178,
+    "Protein": "14,2",
+    "Fat": "12,8",
+    "Carbonhydrates": "1,4",
+    "Weight": 100
+  },
+  {
+    "id": 55,
+    "name": "Lòngheo (ruột già)",
+    "Calories": 167,
+    "Protein": "6,9",
+    "Fat": "15,1",
+    "Carbonhydrates": "0,8",
+    "Weight": 100
+  },
+  {
+    "id": 56,
+    "name": "Phèo heo",
+    "Calories": 44,
+    "Protein": "7,2",
+    "Fat": "1,3",
+    "Carbonhydrates": "0,8",
+    "Weight": 100
+  },
+  {
+    "id": 57,
+    "name": "Mề gà",
+    "Calories": 99,
+    "Protein": "21,3",
+    "Fat": "1,3",
+    "Carbonhydrates": "0,6",
+    "Weight": 100
+  },
+  {
+    "id": 58,
+    "name": "Óc bò",
+    "Calories": 124,
+    "Protein": "9,0",
+    "Fat": "9,5",
+    "Carbonhydrates": "0,5",
+    "Weight": 100
+  },
+  {
+    "id": 59,
+    "name": "Óc heo",
+    "Calories": 123,
+    "Protein": "9,0",
+    "Fat": "9,5",
+    "Carbonhydrates": "0,4",
+    "Weight": 100
+  },
+  {
+    "id": 60,
+    "name": "Sườn heo bỏ xương",
+    "Calories": 187,
+    "Protein": "17,9",
+    "Fat": "12,8",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 61,
+    "name": "Tai heo",
+    "Calories": 121,
+    "Protein": "21,0",
+    "Fat": "4,1",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 62,
+    "name": "Tim bò",
+    "Calories": 89,
+    "Protein": "15,0",
+    "Fat": "3,0",
+    "Carbonhydrates": "0,6",
+    "Weight": 100
+  },
+  {
+    "id": 63,
+    "name": "Tim gà",
+    "Calories": 114,
+    "Protein": "16,0",
+    "Fat": "5,5",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 64,
+    "name": "Tim heo",
+    "Calories": 89,
+    "Protein": "15,1",
+    "Fat": "3,2",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 65,
+    "name": "Huyết bò",
+    "Calories": 75,
+    "Protein": "18,0",
+    "Fat": "0,2",
+    "Carbonhydrates": "0,4",
+    "Weight": 100
+  },
+  {
+    "id": 66,
+    "name": "Huyết heo luộc",
+    "Calories": 44,
+    "Protein": "10,7",
+    "Fat": "0,1",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 67,
+    "name": "Huyết heo sống",
+    "Calories": 25,
+    "Protein": "5,7",
+    "Fat": "0,1",
+    "Carbonhydrates": "0,2",
+    "Weight": 100
+  },
+  {
+    "id": 68,
+    "name": "Pa-tê",
+    "Calories": 326,
+    "Protein": "10,8",
+    "Fat": "24,6",
+    "Carbonhydrates": "15,4",
+    "Weight": 100
+  },
+  {
+    "id": 69,
+    "name": "Chả quế",
+    "Calories": 416,
+    "Protein": "16,2",
+    "Fat": "39,0",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 70,
+    "name": "Dăm bông heo",
+    "Calories": 318,
+    "Protein": "23,0",
+    "Fat": "25,0",
+    "Carbonhydrates": "0,3",
+    "Weight": 100
+  },
+  {
+    "id": 71,
+    "name": "Chả bò",
+    "Calories": 357,
+    "Protein": "13,8",
+    "Fat": "33,5",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 72,
+    "name": "Chả lụa",
+    "Calories": 136,
+    "Protein": "21,5",
+    "Fat": "5,5",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 73,
+    "name": "Giò thủ",
+    "Calories": 553,
+    "Protein": "16,0",
+    "Fat": "54,3",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 74,
+    "name": "Lạp xưởng",
+    "Calories": 585,
+    "Protein": "20,8",
+    "Fat": "55,0",
+    "Carbonhydrates": "1,7",
+    "Weight": 100
+  },
+  {
+    "id": 75,
+    "name": "Nem chua",
+    "Calories": 137,
+    "Protein": "21,7",
+    "Fat": "3,7",
+    "Carbonhydrates": "4,3",
+    "Weight": 100
+  },
+  {
+    "id": 76,
+    "name": "Chà bông",
+    "Calories": 396,
+    "Protein": "46,6",
+    "Fat": "20,3",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 77,
+    "name": "Thịt bò khô",
+    "Calories": 239,
+    "Protein": "51,0",
+    "Fat": "1,6",
+    "Carbonhydrates": "5,2",
+    "Weight": 100
+  },
+  {
+    "id": 78,
+    "name": "Xúc xích",
+    "Calories": 535,
+    "Protein": "27,2",
+    "Fat": "47,4",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 79,
+    "name": "Ếch",
+    "Calories": 90,
+    "Protein": "20,0",
+    "Fat": "1,1",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 80,
+    "name": "Nhộng",
+    "Calories": 111,
+    "Protein": "13,0",
+    "Fat": "6,5",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 81,
+    "name": "Cá bống",
+    "Calories": 70,
+    "Protein": "15,8",
+    "Fat": "0,8",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 82,
+    "name": "Cá chép",
+    "Calories": 96,
+    "Protein": "16,0",
+    "Fat": "3,6",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 83,
+    "name": "Cá đối",
+    "Calories": 108,
+    "Protein": "19,5",
+    "Fat": "3,3",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 84,
+    "name": "Cá hồi",
+    "Calories": 136,
+    "Protein": "22,0",
+    "Fat": "5,3",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 85,
+    "name": "Cá khô",
+    "Calories": 208,
+    "Protein": "43,3",
+    "Fat": "3,9",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 86,
+    "name": "Cá mè",
+    "Calories": 144,
+    "Protein": "15,4",
+    "Fat": "9,1",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 87,
+    "name": "Cá mòi",
+    "Calories": 124,
+    "Protein": "17,5",
+    "Fat": "6,0",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 88,
+    "name": "Cá mỡ",
+    "Calories": 151,
+    "Protein": "16,8",
+    "Fat": "9,3",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 89,
+    "name": "Cá nạc",
+    "Calories": 80,
+    "Protein": "17,5",
+    "Fat": "1,1",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 90,
+    "name": "Cá ngừ",
+    "Calories": 87,
+    "Protein": "21,0",
+    "Fat": "0,3",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 91,
+    "name": "Cá nục",
+    "Calories": 111,
+    "Protein": "20,2",
+    "Fat": "3,3",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 92,
+    "name": "Cá phèn",
+    "Calories": 104,
+    "Protein": "15,9",
+    "Fat": "4,5",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 93,
+    "name": "Cá lóc",
+    "Calories": 97,
+    "Protein": "18,2",
+    "Fat": "2,7",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 94,
+    "name": "Cá rô đồng",
+    "Calories": 126,
+    "Protein": "19,1",
+    "Fat": "5,5",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 95,
+    "name": "Cá rô phi",
+    "Calories": 100,
+    "Protein": "19,7",
+    "Fat": "2,3",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 96,
+    "name": "Cá thu",
+    "Calories": 166,
+    "Protein": "18,2",
+    "Fat": "10,3",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 97,
+    "name": "Cá trê",
+    "Calories": 173,
+    "Protein": "16,5",
+    "Fat": "11,9",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 98,
+    "name": "Cua biển",
+    "Calories": 103,
+    "Protein": "17,5",
+    "Fat": "0,6",
+    "Carbonhydrates": "7,0",
+    "Weight": 100
+  },
+  {
+    "id": 99,
+    "name": "Cua đồng",
+    "Calories": 87,
+    "Protein": "12,3",
+    "Fat": "3,3",
+    "Carbonhydrates": "2,0",
+    "Weight": 100
+  },
+  {
+    "id": 100,
+    "name": "Ghẹ",
+    "Calories": 54,
+    "Protein": "11,9",
+    "Fat": "0,7",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 101,
+    "name": "Hải sâm",
+    "Calories": 90,
+    "Protein": "21,5",
+    "Fat": "0,3",
+    "Carbonhydrates": "0,2",
+    "Weight": 100
+  },
+  {
+    "id": 102,
+    "name": "Hến",
+    "Calories": 45,
+    "Protein": "4,5",
+    "Fat": "0,7",
+    "Carbonhydrates": "5,1",
+    "Weight": 100
+  },
+  {
+    "id": 103,
+    "name": "Lươn",
+    "Calories": 94,
+    "Protein": "20,0",
+    "Fat": "1,5",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 104,
+    "name": "Mực khô",
+    "Calories": 291,
+    "Protein": "60,1",
+    "Fat": "4,5",
+    "Carbonhydrates": "2,5",
+    "Weight": 100
+  },
+  {
+    "id": 105,
+    "name": "Mực tươi",
+    "Calories": 73,
+    "Protein": "16,3",
+    "Fat": "0,9",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 106,
+    "name": "Ốc bươu",
+    "Calories": 84,
+    "Protein": "11,1",
+    "Fat": "0,7",
+    "Carbonhydrates": "8,3",
+    "Weight": 100
+  },
+  {
+    "id": 107,
+    "name": "Ba khía muối",
+    "Calories": 83,
+    "Protein": "14,2",
+    "Fat": "2,9",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 108,
+    "name": "Sò",
+    "Calories": 51,
+    "Protein": "8,8",
+    "Fat": "0,4",
+    "Carbonhydrates": "3,0",
+    "Weight": 100
+  },
+  {
+    "id": 109,
+    "name": "Tép gạo",
+    "Calories": 58,
+    "Protein": "11,7",
+    "Fat": "1,2",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 110,
+    "name": "Tôm biển",
+    "Calories": 82,
+    "Protein": "17,6",
+    "Fat": "0,9",
+    "Carbonhydrates": "0,9",
+    "Weight": 100
+  },
+  {
+    "id": 111,
+    "name": "Tôm đồng",
+    "Calories": 90,
+    "Protein": "18,4",
+    "Fat": "1,8",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 112,
+    "name": "Tôm khô",
+    "Calories": 347,
+    "Protein": "75,6",
+    "Fat": "3,8",
+    "Carbonhydrates": "2,5",
+    "Weight": 100
+  },
+  {
+    "id": 113,
+    "name": "Bánh phồng tôm",
+    "Calories": 676,
+    "Protein": "1,6",
+    "Fat": "59,2",
+    "Carbonhydrates": "34,1",
+    "Weight": 100
+  },
+  {
+    "id": 114,
+    "name": "Chà bông cá lóc",
+    "Calories": 312,
+    "Protein": "65,7",
+    "Fat": "4,1",
+    "Carbonhydrates": "3,0",
+    "Weight": 100
+  },
+  {
+    "id": 115,
+    "name": "Trứng gà",
+    "Calories": 166,
+    "Protein": "14,8",
+    "Fat": "11,6",
+    "Carbonhydrates": "0,5",
+    "Weight": 100
+  },
+  {
+    "id": 116,
+    "name": "Lòng đỏ trứng gà",
+    "Calories": 327,
+    "Protein": "13,6",
+    "Fat": "29,8",
+    "Carbonhydrates": "1,0",
+    "Weight": 100
+  },
+  {
+    "id": 117,
+    "name": "Lòng trắng trứng gà",
+    "Calories": 46,
+    "Protein": "10,3",
+    "Fat": "0,1",
+    "Carbonhydrates": "1,0",
+    "Weight": 100
+  },
+  {
+    "id": 118,
+    "name": "Trứng vịt",
+    "Calories": 184,
+    "Protein": "13,0",
+    "Fat": "14,2",
+    "Carbonhydrates": "1,0",
+    "Weight": 100
+  },
+  {
+    "id": 119,
+    "name": "Lòng đỏ trứng vịt",
+    "Calories": 368,
+    "Protein": "13,6",
+    "Fat": "32,3",
+    "Carbonhydrates": "4,8",
+    "Weight": 100
+  },
+  {
+    "id": 120,
+    "name": "Lòng trắng trứngvịt",
+    "Calories": 50,
+    "Protein": "10,7",
+    "Fat": "0,1",
+    "Carbonhydrates": "0,8",
+    "Weight": 100
+  },
+  {
+    "id": 121,
+    "name": "Trứng vịt lộn",
+    "Calories": 182,
+    "Protein": "13,6",
+    "Fat": "12,4",
+    "Carbonhydrates": "4,0",
+    "Weight": 100
+  },
+  {
+    "id": 122,
+    "name": "Sữa bò tươi",
+    "Calories": 74,
+    "Protein": "3,9",
+    "Fat": "4,4",
+    "Carbonhydrates": "4,8",
+    "Weight": 100
+  },
+  {
+    "id": 123,
+    "name": "Sữa mẹ",
+    "Calories": 61,
+    "Protein": "1,5",
+    "Fat": "3,0",
+    "Carbonhydrates": "7,0",
+    "Weight": 100
+  },
+  {
+    "id": 124,
+    "name": "Thơm hộp",
+    "Calories": 56,
+    "Protein": "0,3",
+    "Fat": "0,0",
+    "Carbonhydrates": "13,7",
+    "Weight": 100
+  },
+  {
+    "id": 125,
+    "name": "Đậu phộng chiên",
+    "Calories": 680,
+    "Protein": "25,7",
+    "Fat": "59,5",
+    "Carbonhydrates": "10,3",
+    "Weight": 100
+  },
+  {
+    "id": 126,
+    "name": "Mứt thơm",
+    "Calories": 208,
+    "Protein": "0,5",
+    "Fat": "0,0",
+    "Carbonhydrates": "51,5",
+    "Weight": 100
+  },
+  {
+    "id": 127,
+    "name": "Mứt đu đủ",
+    "Calories": 178,
+    "Protein": "0,4",
+    "Fat": "0,0",
+    "Carbonhydrates": "44,1",
+    "Weight": 100
+  },
+  {
+    "id": 128,
+    "name": "Nhãn hộp",
+    "Calories": 62,
+    "Protein": "0,5",
+    "Fat": "0,0",
+    "Carbonhydrates": "15,0",
+    "Weight": 100
+  },
+  {
+    "id": 129,
+    "name": "Nước thơm",
+    "Calories": 39,
+    "Protein": "0,3",
+    "Fat": "0,0",
+    "Carbonhydrates": "9,4",
+    "Weight": 100
+  },
+  {
+    "id": 130,
+    "name": "Vải hộp",
+    "Calories": 60,
+    "Protein": "0,4",
+    "Fat": "0,0",
+    "Carbonhydrates": "14,7",
+    "Weight": 100
+  },
+  {
+    "id": 131,
+    "name": "Cá thu hộp",
+    "Calories": 207,
+    "Protein": "24,8",
+    "Fat": "12,0",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 132,
+    "name": "Cá trích hộp",
+    "Calories": 233,
+    "Protein": "22,3",
+    "Fat": "14,4",
+    "Carbonhydrates": "3,5",
+    "Weight": 100
+  },
+  {
+    "id": 133,
+    "name": "Thịt bò hộp",
+    "Calories": 251,
+    "Protein": "16,4",
+    "Fat": "20,6",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 134,
+    "name": "Thịt gà hộp",
+    "Calories": 273,
+    "Protein": "17,0",
+    "Fat": "22,8",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 135,
+    "name": "Thịt heo hộp",
+    "Calories": 344,
+    "Protein": "17,3",
+    "Fat": "29,3",
+    "Carbonhydrates": "2,7",
+    "Weight": 100
+  },
+  {
+    "id": 136,
+    "name": "Bánh mì khô",
+    "Calories": 346,
+    "Protein": "12,3",
+    "Fat": "1,3",
+    "Carbonhydrates": "71,3",
+    "Weight": 100
+  },
+  {
+    "id": 137,
+    "name": "Bánh in chay",
+    "Calories": 376,
+    "Protein": "3,2",
+    "Fat": "0,3",
+    "Carbonhydrates": "90,2",
+    "Weight": 100
+  },
+  {
+    "id": 138,
+    "name": "Bánh sôcôla",
+    "Calories": 449,
+    "Protein": "3,9",
+    "Fat": "17,6",
+    "Carbonhydrates": "68,8",
+    "Weight": 100
+  },
+  {
+    "id": 139,
+    "name": "Bánh thỏi sôcôla",
+    "Calories": 543,
+    "Protein": "4,9",
+    "Fat": "30,4",
+    "Carbonhydrates": "62,5",
+    "Weight": 100
+  },
+  {
+    "id": 140,
+    "name": "Bánh men",
+    "Calories": 369,
+    "Protein": "9,6",
+    "Fat": "3,7",
+    "Carbonhydrates": "74,2",
+    "Weight": 100
+  },
+  {
+    "id": 141,
+    "name": "Đường cát trắng",
+    "Calories": 397,
+    "Protein": "0,0",
+    "Fat": "0,0",
+    "Carbonhydrates": "99,3",
+    "Weight": 100
+  },
+  {
+    "id": 142,
+    "name": "Kẹo cà phê",
+    "Calories": 378,
+    "Protein": "0,0",
+    "Fat": "1,3",
+    "Carbonhydrates": "91,5",
+    "Weight": 100
+  },
+  {
+    "id": 143,
+    "name": "Kẹo dừa mềm",
+    "Calories": 415,
+    "Protein": "0,6",
+    "Fat": "12,2",
+    "Carbonhydrates": "75,6",
+    "Weight": 100
+  },
+  {
+    "id": 144,
+    "name": "Kẹo đậu phộng",
+    "Calories": 449,
+    "Protein": "10,3",
+    "Fat": "16,5",
+    "Carbonhydrates": "64,8",
+    "Weight": 100
+  },
+  {
+    "id": 145,
+    "name": "Kẹo ngậm bạc hà",
+    "Calories": 268,
+    "Protein": "5,2",
+    "Fat": "0,0",
+    "Carbonhydrates": "61,9",
+    "Weight": 100
+  },
+  {
+    "id": 146,
+    "name": "Kẹo sôcôla",
+    "Calories": 388,
+    "Protein": "1,6",
+    "Fat": "4,6",
+    "Carbonhydrates": "85,1",
+    "Weight": 100
+  },
+  {
+    "id": 147,
+    "name": "Kẹo sữa",
+    "Calories": 390,
+    "Protein": "2,9",
+    "Fat": "5,2",
+    "Carbonhydrates": "93,0",
+    "Weight": 100
+  },
+  {
+    "id": 148,
+    "name": "Mật ong",
+    "Calories": 327,
+    "Protein": "0,4",
+    "Fat": "0,0",
+    "Carbonhydrates": "81,3",
+    "Weight": 100
+  },
+  {
+    "id": 149,
+    "name": "Cari bột",
+    "Calories": 283,
+    "Protein": "8,2",
+    "Fat": "7,3",
+    "Carbonhydrates": "46,0",
+    "Weight": 100
+  },
+  {
+    "id": 150,
+    "name": "Gừng tươi",
+    "Calories": 25,
+    "Protein": "0,4",
+    "Fat": "0,0",
+    "Carbonhydrates": "5,8",
+    "Weight": 100
+  },
+  {
+    "id": 151,
+    "name": "Muối",
+    "Calories": 0,
+    "Protein": "0,0",
+    "Fat": "0,0",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 152,
+    "name": "Nghệ khô",
+    "Calories": 360,
+    "Protein": "6,3",
+    "Fat": "5,1",
+    "Carbonhydrates": "72,1",
+    "Weight": 100
+  },
+  {
+    "id": 153,
+    "name": "Nghệ tươi",
+    "Calories": 22,
+    "Protein": "0,3",
+    "Fat": "0,0",
+    "Carbonhydrates": "5,2",
+    "Weight": 100
+  },
+  {
+    "id": 154,
+    "name": "Mắm tôm đặc",
+    "Calories": 73,
+    "Protein": "14,8",
+    "Fat": "1,5",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 155,
+    "name": "Tôm chua",
+    "Calories": 68,
+    "Protein": "8,7",
+    "Fat": "1,2",
+    "Carbonhydrates": "5,5",
+    "Weight": 100
+  },
+  {
+    "id": 156,
+    "name": "Nước mắm",
+    "Calories": 28,
+    "Protein": "7,1",
+    "Fat": "0,0",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 157,
+    "name": "Tương ớt",
+    "Calories": 37,
+    "Protein": "0,5",
+    "Fat": "0,5",
+    "Carbonhydrates": "7,6",
+    "Weight": 100
+  },
+  {
+    "id": 158,
+    "name": "Xì dầu",
+    "Calories": 28,
+    "Protein": "7,0",
+    "Fat": "0,0",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 159,
+    "name": "Bia",
+    "Calories": 43,
+    "Protein": "0,5",
+    "Fat": "0,0",
+    "Carbonhydrates": "2,3",
+    "Weight": 100
+  },
+  {
+    "id": 160,
+    "name": "CocaCola",
+    "Calories": 42,
+    "Protein": "0,0",
+    "Fat": "0,0",
+    "Carbonhydrates": "10,4",
+    "Weight": 100
+  },
+  {
+    "id": 161,
+    "name": "Rượu nếp",
+    "Calories": 202,
+    "Protein": "4,0",
+    "Fat": "0,0",
+    "Carbonhydrates": "37,7",
+    "Weight": 100
+  },
+  {
+    "id": 162,
+    "name": "Rượu trắng",
+    "Calories": 273,
+    "Protein": "0,0",
+    "Fat": "0,0",
+    "Carbonhydrates": "0,0",
+    "Weight": 100
+  },
+  {
+    "id": 163,
+    "name": "Americano",
+    "Calories": 5,
+    "Protein": "0",
+    "Fat": "0",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 165,
+    "name": "Bánh Chưng",
+    "Calories": 165,
+    "Protein": "5",
+    "Fat": "3",
+    "Carbonhydrates": "27",
+    "Weight": 100
+  },
+  {
+    "id": 166,
+    "name": "Bánh cuốn (không)",
+    "Calories": 129,
+    "Protein": "3",
+    "Fat": "5.3",
+    "Carbonhydrates": "16.8",
+    "Weight": 100
+  },
+  {
+    "id": 167,
+    "name": "Bánh mì gối đen",
+    "Calories": 275,
+    "Protein": "8.1",
+    "Fat": "4.1",
+    "Carbonhydrates": "51.2",
+    "Weight": 100
+  },
+  {
+    "id": 168,
+    "name": "Bánh mì gối trắng",
+    "Calories": 266,
+    "Protein": "7.6",
+    "Fat": "3.3",
+    "Carbonhydrates": "50.6",
+    "Weight": 100
+  },
+  {
+    "id": 169,
+    "name": "Bánh Phở Tươi",
+    "Calories": 143,
+    "Protein": "3.2",
+    "Fat": "0.4",
+    "Carbonhydrates": "31.7",
+    "Weight": 100
+  },
+  {
+    "id": 170,
+    "name": "Bò (Loin Strip)",
+    "Calories": 223,
+    "Protein": "21",
+    "Fat": "7",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 171,
+    "name": "Bò (Thịt Tái)",
+    "Calories": 100,
+    "Protein": "28",
+    "Fat": "7",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 172,
+    "name": "Bò (Ức)",
+    "Calories": 155,
+    "Protein": "21",
+    "Fat": "7",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 173,
+    "name": "Bò Băm (80:20)",
+    "Calories": 254,
+    "Protein": "17",
+    "Fat": "20",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 174,
+    "name": "Bò Băm (85:15)",
+    "Calories": 215,
+    "Protein": "19",
+    "Fat": "15",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 175,
+    "name": "Bò Băm (90:10)",
+    "Calories": 176,
+    "Protein": "20",
+    "Fat": "10",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 176,
+    "name": "Bò Băm (93:07)",
+    "Calories": 152,
+    "Protein": "21",
+    "Fat": "7",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 177,
+    "name": "Bò Băm (95:05)",
+    "Calories": 136,
+    "Protein": "21",
+    "Fat": "5",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 178,
+    "name": "Bò Bít Tết (NY Strip)",
+    "Calories": 192,
+    "Protein": "21",
+    "Fat": "9",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 179,
+    "name": "Bò Bít Tết (Rib Eye)",
+    "Calories": 291,
+    "Protein": "24",
+    "Fat": "22",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 180,
+    "name": "Bò Bít Tết (T-Bone)",
+    "Calories": 220,
+    "Protein": "19",
+    "Fat": "15",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 181,
+    "name": "Bò Sống (Nạc)",
+    "Calories": 142,
+    "Protein": "21",
+    "Fat": "6",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 182,
+    "name": "Bò Viên",
+    "Calories": 22,
+    "Protein": "2",
+    "Fat": "1",
+    "Carbonhydrates": "4",
+    "Weight": 100
+  },
+  {
+    "id": 183,
+    "name": "Bông Cải Xanh",
+    "Calories": 29,
+    "Protein": "4",
+    "Fat": "0",
+    "Carbonhydrates": "2",
+    "Weight": 100
+  },
+  {
+    "id": 184,
+    "name": "Bột Cacao",
+    "Calories": 240,
+    "Protein": "20",
+    "Fat": "10",
+    "Carbonhydrates": "20",
+    "Weight": 100
+  },
+  {
+    "id": 185,
+    "name": "Bột Hạnh Nhân",
+    "Calories": 648,
+    "Protein": "22",
+    "Fat": "54",
+    "Carbonhydrates": "7",
+    "Weight": 100
+  },
+  {
+    "id": 186,
+    "name": "Bột Mì",
+    "Calories": 455,
+    "Protein": "13",
+    "Fat": "1.2",
+    "Carbonhydrates": "95",
+    "Weight": 100
+  },
+  {
+    "id": 187,
+    "name": "Bún",
+    "Calories": 110,
+    "Protein": "1.7",
+    "Fat": "0",
+    "Carbonhydrates": "25.7",
+    "Weight": 100
+  },
+  {
+    "id": 189,
+    "name": "Cà Chua",
+    "Calories": 18,
+    "Protein": "1",
+    "Fat": "0",
+    "Carbonhydrates": "4",
+    "Weight": 100
+  },
+  {
+    "id": 190,
+    "name": "Cá Hồi",
+    "Calories": 208,
+    "Protein": "20",
+    "Fat": "13",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 191,
+    "name": "Cà rốt",
+    "Calories": 38,
+    "Protein": "0",
+    "Fat": "0",
+    "Carbonhydrates": "9",
+    "Weight": 100
+  },
+  {
+    "id": 192,
+    "name": "Cá Viên",
+    "Calories": 221,
+    "Protein": "19",
+    "Fat": "14",
+    "Carbonhydrates": "4",
+    "Weight": 100
+  },
+  {
+    "id": 193,
+    "name": "Cafe Sữa Đá",
+    "Calories": 61,
+    "Protein": "2.6",
+    "Fat": "1.9",
+    "Carbonhydrates": "8",
+    "Weight": 100
+  },
+  {
+    "id": 194,
+    "name": "Cải Bắp",
+    "Calories": 25,
+    "Protein": "1",
+    "Fat": "0",
+    "Carbonhydrates": "4",
+    "Weight": 100
+  },
+  {
+    "id": 195,
+    "name": "Cải Chíp",
+    "Calories": 13,
+    "Protein": "2",
+    "Fat": "0",
+    "Carbonhydrates": "1",
+    "Weight": 100
+  },
+  {
+    "id": 196,
+    "name": "Cải Xoăn",
+    "Calories": 59,
+    "Protein": "5",
+    "Fat": "1",
+    "Carbonhydrates": "5",
+    "Weight": 100
+  },
+  {
+    "id": 197,
+    "name": "Cánh Gà Có Da",
+    "Calories": 188,
+    "Protein": "18",
+    "Fat": "13",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 198,
+    "name": "Chả quế lợn",
+    "Calories": 416,
+    "Protein": "16.2",
+    "Fat": "39",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 199,
+    "name": "Cơm gạo lứt",
+    "Calories": 111,
+    "Protein": "2.6",
+    "Fat": "0.9",
+    "Carbonhydrates": "23.1",
+    "Weight": 100
+  },
+  {
+    "id": 200,
+    "name": "Cơm trắng",
+    "Calories": 130,
+    "Protein": "3",
+    "Fat": "0",
+    "Carbonhydrates": "29",
+    "Weight": 100
+  },
+  {
+    "id": 201,
+    "name": "Củ Cải ",
+    "Calories": 18,
+    "Protein": "1",
+    "Fat": "4",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 202,
+    "name": "Dấm",
+    "Calories": 18,
+    "Protein": "0",
+    "Fat": "0",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 203,
+    "name": "Dầu Hào",
+    "Calories": 63,
+    "Protein": "0",
+    "Fat": "0",
+    "Carbonhydrates": "13",
+    "Weight": 100
+  },
+  {
+    "id": 204,
+    "name": "Dầu Ô-Liu",
+    "Calories": 884,
+    "Protein": "0",
+    "Fat": "100",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 205,
+    "name": "Dâu tây",
+    "Calories": 36,
+    "Protein": "1",
+    "Fat": "0",
+    "Carbonhydrates": "9",
+    "Weight": 100
+  },
+  {
+    "id": 206,
+    "name": "Dưa Chuột",
+    "Calories": 15,
+    "Protein": "1",
+    "Fat": "0",
+    "Carbonhydrates": "4",
+    "Weight": 100
+  },
+  {
+    "id": 207,
+    "name": "Dưa Lưới",
+    "Calories": 34,
+    "Protein": "1",
+    "Fat": "0",
+    "Carbonhydrates": "7",
+    "Weight": 100
+  },
+  {
+    "id": 208,
+    "name": "Đùi Gà Có Da ",
+    "Calories": 152,
+    "Protein": "18",
+    "Fat": "9",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 209,
+    "name": "Đùi Gà Không Da ",
+    "Calories": 116,
+    "Protein": "20",
+    "Fat": "4",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 210,
+    "name": "Đường   ",
+    "Calories": 387,
+    "Protein": "0",
+    "Fat": "0",
+    "Carbonhydrates": "100",
+    "Weight": 100
+  },
+  {
+    "id": 211,
+    "name": "Gạo nếp",
+    "Calories": 346,
+    "Protein": "8.4",
+    "Fat": "1.6",
+    "Carbonhydrates": "74.9",
+    "Weight": 100
+  },
+  {
+    "id": 212,
+    "name": "Gạo tẻ",
+    "Calories": 344,
+    "Protein": "8.1",
+    "Fat": "1.3",
+    "Carbonhydrates": "75",
+    "Weight": 100
+  },
+  {
+    "id": 213,
+    "name": "Gíá đỗ",
+    "Calories": 43,
+    "Protein": "5,5",
+    "Fat": "0",
+    "Carbonhydrates": "5,3",
+    "Weight": 100
+  },
+  {
+    "id": 214,
+    "name": "Giò lụa",
+    "Calories": 136,
+    "Protein": "21.5",
+    "Fat": "5.5",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 215,
+    "name": "Gừng Băm",
+    "Calories": 300,
+    "Protein": "0",
+    "Fat": "0",
+    "Carbonhydrates": "80",
+    "Weight": 100
+  },
+  {
+    "id": 217,
+    "name": "Hành phi",
+    "Calories": 600,
+    "Protein": "0",
+    "Fat": "40",
+    "Carbonhydrates": "60",
+    "Weight": 100
+  },
+  {
+    "id": 218,
+    "name": "Hạt Điều",
+    "Calories": 553,
+    "Protein": "18",
+    "Fat": "44",
+    "Carbonhydrates": "30",
+    "Weight": 100
+  },
+  {
+    "id": 219,
+    "name": "Khoai lang (chín)",
+    "Calories": 76,
+    "Protein": "1.4",
+    "Fat": "0.1",
+    "Carbonhydrates": "17.7",
+    "Weight": 100
+  },
+  {
+    "id": 220,
+    "name": "Khoai lang (sống)",
+    "Calories": 86,
+    "Protein": "2",
+    "Fat": "0",
+    "Carbonhydrates": "20",
+    "Weight": 100
+  },
+  {
+    "id": 221,
+    "name": "Khoai tây (chín)",
+    "Calories": 86,
+    "Protein": "1.7",
+    "Fat": "0.1",
+    "Carbonhydrates": "20",
+    "Weight": 100
+  },
+  {
+    "id": 222,
+    "name": "Khoai tây (sống)",
+    "Calories": 77,
+    "Protein": "2",
+    "Fat": "0.1",
+    "Carbonhydrates": "18.4",
+    "Weight": 100
+  },
+  {
+    "id": 223,
+    "name": "Măng tây",
+    "Calories": 20,
+    "Protein": "2.2",
+    "Fat": "0.1",
+    "Carbonhydrates": "3.9",
+    "Weight": 100
+  },
+  {
+    "id": 224,
+    "name": "Nấm Trắng",
+    "Calories": 22,
+    "Protein": "2",
+    "Fat": "0",
+    "Carbonhydrates": "2",
+    "Weight": 100
+  },
+  {
+    "id": 226,
+    "name": "Nước Hầm Xương",
+    "Calories": 16,
+    "Protein": "4",
+    "Fat": "0",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 227,
+    "name": "Nước Xương",
+    "Calories": 8,
+    "Protein": "2",
+    "Fat": "0",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 228,
+    "name": "omega 3",
+    "Calories": 10,
+    "Protein": "0",
+    "Fat": "1",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 229,
+    "name": "Ớt chuông",
+    "Calories": 28,
+    "Protein": "1",
+    "Fat": "0",
+    "Carbonhydrates": "5",
+    "Weight": 100
+  },
+  {
+    "id": 230,
+    "name": "Parmesan Cheese",
+    "Calories": 431,
+    "Protein": "38",
+    "Fat": "29",
+    "Carbonhydrates": "4",
+    "Weight": 100
+  },
+  {
+    "id": 233,
+    "name": "Phô Mai Gouda ",
+    "Calories": 357,
+    "Protein": "21",
+    "Fat": "29",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 234,
+    "name": "Phô Mai Manchego ",
+    "Calories": 429,
+    "Protein": "25",
+    "Fat": "36",
+    "Carbonhydrates": "4",
+    "Weight": 100
+  },
+  {
+    "id": 235,
+    "name": "Pork Loin Chops (Pork Loin Chops)",
+    "Calories": 152,
+    "Protein": "21",
+    "Fat": "7",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 236,
+    "name": "Quả bí",
+    "Calories": 17,
+    "Protein": "1",
+    "Fat": "0",
+    "Carbonhydrates": "2",
+    "Weight": 100
+  },
+  {
+    "id": 237,
+    "name": "Quả bơ",
+    "Calories": 160,
+    "Protein": "10.6",
+    "Fat": "1.4",
+    "Carbonhydrates": "6.1",
+    "Weight": 100
+  },
+  {
+    "id": 238,
+    "name": "Rau Muống",
+    "Calories": 18,
+    "Protein": "2.6",
+    "Fat": "0.2",
+    "Carbonhydrates": "3",
+    "Weight": 100
+  },
+  {
+    "id": 239,
+    "name": "Rau Dền",
+    "Calories": 24,
+    "Protein": "2",
+    "Fat": "0",
+    "Carbonhydrates": "1",
+    "Weight": 100
+  },
+  {
+    "id": 240,
+    "name": "Sách ",
+    "Calories": 89,
+    "Protein": "13",
+    "Fat": "4",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 241,
+    "name": "Sữa chua Vinamilk có đường",
+    "Calories": 102.6,
+    "Protein": "3.5",
+    "Fat": "3",
+    "Carbonhydrates": "15.4",
+    "Weight": 100
+  },
+  {
+    "id": 242,
+    "name": "Sữa chua Vinamilk không đường",
+    "Calories": 60,
+    "Protein": "3.7",
+    "Fat": "3",
+    "Carbonhydrates": "4.5",
+    "Weight": 100
+  },
+  {
+    "id": 243,
+    "name": "Sữa gầy (skim milk) tách béo",
+    "Calories": 35,
+    "Protein": "3.5",
+    "Fat": "0.1",
+    "Carbonhydrates": "5.1",
+    "Weight": 100
+  },
+  {
+    "id": 244,
+    "name": "Sữa nguyên kem (full fat / whole fat)",
+    "Calories": 64,
+    "Protein": "3.2",
+    "Fat": "3.4",
+    "Carbonhydrates": "5",
+    "Weight": 100
+  },
+  {
+    "id": 245,
+    "name": "Sữa tươi (Dalat Milk) không đường",
+    "Calories": 65,
+    "Protein": "3.2",
+    "Fat": "3.8",
+    "Carbonhydrates": "4.4",
+    "Weight": 100
+  },
+  {
+    "id": 246,
+    "name": "Sữa tươi có đường",
+    "Calories": 72,
+    "Protein": "2.9",
+    "Fat": "3.2",
+    "Carbonhydrates": "8",
+    "Weight": 100
+  },
+  {
+    "id": 247,
+    "name": "Sườn Bò Non",
+    "Calories": 471,
+    "Protein": "22",
+    "Fat": "42",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 248,
+    "name": "Thăn Bò",
+    "Calories": 324,
+    "Protein": "24",
+    "Fat": "25",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 249,
+    "name": "Thăn Heo ",
+    "Calories": 186,
+    "Protein": "20",
+    "Fat": "11",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 250,
+    "name": "Thịt Cua",
+    "Calories": 97,
+    "Protein": "19",
+    "Fat": "2",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 251,
+    "name": "Thịt Heo (Mông)",
+    "Calories": 188,
+    "Protein": "18",
+    "Fat": "13",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 252,
+    "name": "Thịt lợn nướng",
+    "Calories": 172,
+    "Protein": "20.4",
+    "Fat": "7.2",
+    "Carbonhydrates": "6.1",
+    "Weight": 100
+  },
+  {
+    "id": 253,
+    "name": "Tỏi",
+    "Calories": 149,
+    "Protein": "6",
+    "Fat": "0",
+    "Carbonhydrates": "33",
+    "Weight": 100
+  },
+  {
+    "id": 254,
+    "name": "Tôm",
+    "Calories": 85,
+    "Protein": "20",
+    "Fat": "1",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 256,
+    "name": "Trứng",
+    "Calories": 143,
+    "Protein": "13",
+    "Fat": "10",
+    "Carbonhydrates": "1",
+    "Weight": 100
+  },
+  {
+    "id": 257,
+    "name": "Trứng Lòng Trắng ",
+    "Calories": 52,
+    "Protein": "11",
+    "Fat": "0",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 258,
+    "name": "Ức Gà",
+    "Calories": 119,
+    "Protein": "21",
+    "Fat": "3",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 259,
+    "name": "Việt Quất",
+    "Calories": 57,
+    "Protein": "1",
+    "Fat": "0",
+    "Carbonhydrates": "12",
+    "Weight": 100
+  },
+  {
+    "id": 260,
+    "name": "whey",
+    "Calories": 110,
+    "Protein": "25",
+    "Fat": "0.5",
+    "Carbonhydrates": "2",
+    "Weight": 100
+  },
+  {
+    "id": 261,
+    "name": "Xôi trắng",
+    "Calories": 97,
+    "Protein": "2",
+    "Fat": "0.2",
+    "Carbonhydrates": "21",
+    "Weight": 100
+  },
+  {
+    "id": 262,
+    "name": "Mayonnaise (Kewpie)",
+    "Calories": 733,
+    "Protein": "0",
+    "Fat": "73",
+    "Carbonhydrates": "0",
+    "Weight": 100
+  },
+  {
+    "id": 263,
+    "name": "Yến mạch",
+    "Calories": 396,
+    "Protein": "12",
+    "Fat": "8",
+    "Carbonhydrates": "71",
+    "Weight": 100
+  }
+]
