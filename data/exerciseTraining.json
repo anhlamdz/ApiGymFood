@@ -185,22 +185,7 @@
       "Thay thế các bên cho số lần lặp lại mong muốn."
     ]
   },
-  {
-    "bodyPart": "eo",
-    "equipment": "band",
-    "gifUrl": "https://drive.google.com/uc?id=1jTIzNBEj6Vo_TUzAylMrCJuP4IgzBXyb",
-    "id": 971,
-    "name": "band assisted wheel rollerout",
-    "target": "abs",
-    "secondaryMuscles": ["lower back"],
-    "instructions": [
-      "Quỳ trên sàn và giữ tay cầm của dây đeo bằng cả hai tay, lòng bàn tay úp xuống.",
-      "Đặt dây đeo trên mặt đất trước mặt bạn và đặt hai tay rộng bằng vai.",
-      "Hãy vận động cơ thể của bạn và từ từ lăn bánh xe về phía trước, kéo dài cơ thể của bạn ra xa nhất có thể trong khi vẫn duy trì khả năng kiểm soát.",
-      "Dừng lại một lúc ở điểm xa nhất, sau đó từ từ lăn bánh xe về phía đầu gối để trở về vị trí ban đầu.",
-      "Lặp lại số lần lặp lại mong muốn."
-    ]
-  },
+
   {
     "bodyPart": "eo",
     "equipment": "trọng lượng cơ thể",
@@ -366,23 +351,6 @@
       "Bước những bước nhỏ, có kiểm soát về phía trước, duy trì tư thế thẳng đứng.",
       "Tiếp tục đi bộ với khoảng cách hoặc thời gian mong muốn.",
       "Để kết thúc, dừng bước và cẩn thận hạ tạ xuống hai bên."
-    ]
-  },
-  {
-    "bodyPart": "đùi",
-    "equipment": "barbell",
-    "gifUrl": "https://drive.google.com/uc?id=16To7ZKpunF0vQugU4oPsrm3NAjA1Fzzf",
-    "id": 32,
-    "name": "barbell deadlift",
-    "target": "glutes",
-    "secondaryMuscles": ["hamstrings", "lower back"],
-    "instructions": [
-      "Đứng hai chân rộng bằng vai và đặt tạ trên mặt đất trước mặt.",
-      "Cong đầu gối và xoay hông để hạ thấp thân mình và nắm chặt thanh tạ bằng tay cầm quá tay, hai tay rộng hơn vai một chút.",
-      "Giữ lưng thẳng và ngực nâng lên khi bạn di chuyển qua gót chân để nhấc thanh tạ lên khỏi mặt đất, mở rộng hông và đầu gối.",
-      "Khi bạn đứng thẳng, siết chặt cơ mông và giữ cho cơ trung tâm hoạt động.",
-      "Hạ thanh tạ xuống đất bằng cách uốn cong hông và đầu gối, giữ thẳng lưng.",
-      "Lặp lại số lần lặp lại mong muốn."
     ]
   },
   {
