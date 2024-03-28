@@ -1,0 +1,706 @@
+[{
+    "bodyPart": "đùi",
+    "equipment": "barbell",
+    "gifUrl": "https://drive.google.com/uc?id=1vqA6d5AQw336tvhRuY3SeizWK7GZtyVx",
+    "id": 43,
+    "name": "barbell full squat",
+    "target": "glutes",
+    "secondaryMuscles": ["quadriceps", "hamstrings", "calves", "core"],
+    "instructions": [
+      "Đứng hai chân rộng bằng vai, ngón chân hơi hướng ra ngoài.",
+      "Giữ thanh tạ ngang lưng trên của bạn, đặt nó lên cơ vai hoặc cơ vai sau.",
+      "Hãy tập trung vào cơ thể và giữ ngực cao khi bạn bắt đầu hạ cơ thể xuống.",
+      "Cong đầu gối và hông, đẩy hông ra sau và hạ xuống như thể đang ngồi trên ghế.",
+      "Hạ người xuống cho đến khi đùi song song với mặt đất hoặc hơi thấp hơn một chút.",
+      "Giữ đầu gối thẳng hàng với ngón chân và trọng lượng dồn vào gót chân.",
+      "Dùng gót chân để đứng dậy, duỗi hông và đầu gối.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "ngực",
+    "equipment": "barbell",
+    "gifUrl": "https://drive.google.com/uc?id=13ibeDSBV0wx7lpYJI9f2N2xc85ky0ztc",
+    "id": 25,
+    "name": "barbell bench press",
+    "target": "pectorals",
+    "secondaryMuscles": ["triceps", "shoulders"],
+    "instructions": [
+      "Nằm thẳng trên ghế, hai chân đặt phẳng trên mặt đất và lưng áp vào ghế.",
+      "Nắm chặt thanh tạ với khoảng cách tay cầm quá rộng hơn một chút so với chiều rộng của vai.",
+      "Nhấc thanh tạ ra khỏi giá và giữ nó ngay phía trên ngực với cánh tay duỗi thẳng hoàn toàn.",
+      "Từ từ hạ thanh tạ về phía ngực, giữ khuỷu tay khép vào.",
+      "Tạm dừng một lúc khi thanh tạ chạm vào ngực bạn.",
+      "Đẩy thanh tạ trở lại vị trí ban đầu bằng cách mở rộng cánh tay của bạn.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "lưng",
+    "equipment": "barbell",
+    "gifUrl": "https://drive.google.com/uc?id=1Ju568zBpONAsFJVGJMYqcOaNBS3Rwiyd",
+    "id": 27,
+    "name": "barbell bent over row",
+    "target": "upper back",
+    "secondaryMuscles": ["biceps", "forearms"],
+    "instructions": [
+      "Đứng hai chân rộng bằng vai và đầu gối hơi cong.",
+      "Cúi người về phía trước ở hông trong khi giữ thẳng lưng và ưỡn ngực.",
+      "Nắm chặt thanh tạ bằng tay, hai tay rộng hơn vai một chút.",
+      "Kéo thanh tạ về phía ngực dưới bằng cách rút xương bả vai và siết chặt cơ lưng.",
+      "Tạm dừng một lúc ở trên cùng, sau đó từ từ hạ thanh tạ trở lại vị trí bắt đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "vai",
+    "equipment": "dumbbell",
+    "gifUrl": "https://drive.google.com/uc?id=1KTF_VTCtKei7Oz5NFNfPEBty8-4hFEue",
+    "id": 426,
+    "name": "dumbbell standing overhead press",
+    "target": "delts",
+    "secondaryMuscles": ["triceps", "upper back"],
+    "instructions": [
+      "Đứng hai chân rộng bằng vai, mỗi tay cầm một quả tạ ngang vai với lòng bàn tay hướng về phía trước.",
+      "Nhấn thanh tạ lên trên cho đến khi cánh tay của bạn được mở rộng hoàn toàn trên đầu.",
+      "Tạm dừng một lúc ở phía trên, sau đó từ từ hạ tạ xuống ngang vai.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "đùi",
+    "equipment": "barbell",
+    "gifUrl": "https://drive.google.com/uc?id=16To7ZKpunF0vQugU4oPsrm3NAjA1Fzzf",
+    "id": 32,
+    "name": "barbell deadlift",
+    "target": "glutes",
+    "secondaryMuscles": ["hamstrings", "lower back"],
+    "instructions": [
+      "Đứng hai chân rộng bằng vai và đặt tạ trên mặt đất trước mặt.",
+      "Cong đầu gối và xoay hông để hạ thấp thân mình và nắm chặt thanh tạ bằng tay cầm quá tay, hai tay rộng hơn vai một chút.",
+      "Giữ lưng thẳng và ngực nâng lên khi bạn di chuyển qua gót chân để nhấc thanh tạ lên khỏi mặt đất, mở rộng hông và đầu gối.",
+      "Khi bạn đứng thẳng, siết chặt cơ mông và giữ cho cơ trung tâm hoạt động.",
+      "Hạ thanh tạ xuống đất bằng cách uốn cong hông và đầu gối, giữ thẳng lưng.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },{
+    "bodyPart": "lưng",
+    "equipment": "cable",
+    "gifUrl": "https://drive.google.com/uc?id=16Wu0CIR9W5oIyBacu0iD3YJPbedHwl4b",
+    "id": 198,
+    "name": "cable pulldown",
+    "target": "lats",
+    "secondaryMuscles": ["biceps", "forearms"],
+    "instructions": [
+      "Điều chỉnh máy kéo cáp sao cho ghế ở độ cao thoải mái và đệm đầu gối được cố định.",
+      "Ngồi trên ghế, lưng thẳng và bàn chân đặt phẳng trên mặt đất.",
+      "Nắm chặt thanh cáp bằng tay cầm, hơi rộng hơn chiều rộng vai một chút.",
+      "Nghiêng người về phía sau một chút và tập trung vào phần cốt lõi của bạn.",
+      "Kéo thanh cáp xuống về phía ngực, ép chặt hai bả vai lại với nhau.",
+      "Tạm dừng một lúc ở cuối chuyển động, sau đó từ từ thả thanh trở lại vị trí bắt đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "bắp tay",
+    "equipment": "barbell",
+    "gifUrl": "https://drive.google.com/uc?id=171O9bTREFhVGz9VEkKUiBwoXvD6tlXRc",
+    "id": 31,
+    "name": "barbell curl",
+    "target": "biceps",
+    "secondaryMuscles": ["forearms"],
+    "instructions": [
+      "Đứng thẳng, hai chân rộng bằng vai và cầm một thanh tạ bằng tay cầm dưới, lòng bàn tay hướng về phía trước.",
+      "Giữ khuỷu tay của bạn gần với thân mình và thở ra khi bạn cuộn tạ trong khi co bắp tay.",
+      "Tiếp tục nâng thanh đòn cho đến khi bắp tay của bạn căng hoàn toàn và thanh đòn ở ngang vai.",
+      "Giữ tư thế co lại trong một khoảng dừng ngắn khi bạn siết chặt bắp tay.",
+      "Hít vào khi bạn từ từ bắt đầu hạ thanh tạ trở lại vị trí ban đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "bắp tay",
+    "equipment": "dumbbell",
+    "gifUrl": "https://drive.google.com/uc?id=1RlaR5XLetXSdSsD4xoAmUDZAmmKTYMyC",
+    "id": 430,
+    "name": "dumbbell standing triceps extension",
+    "target": "triceps",
+    "secondaryMuscles": ["shoulders"],
+    "instructions": [
+      "Đứng hai chân rộng bằng vai và cầm một quả tạ bằng một tay.",
+      "Nâng quả tạ qua đầu, giữ thẳng cánh tay.",
+      "Cong khuỷu tay của bạn và hạ quả tạ xuống phía sau đầu, giữ cho cánh tay trên của bạn đứng yên.",
+      "Mở rộng cánh tay của bạn trở lại vị trí bắt đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "eo",
+    "equipment": "cable",
+    "gifUrl": "https://drive.google.com/uc?id=1OLyRXOsvRJyuIkduuCTRAe6pIMxxrOvg",
+    "id": 873,
+    "name": "cable reverse crunch",
+    "target": "abs",
+    "secondaryMuscles": ["hip flexors"],
+    "instructions": [
+      "Gắn dây cáp vào ròng rọc thấp và nằm ngửa trên một tấm thảm.",
+      "Giữ dây cáp bằng cả hai tay và duỗi thẳng cánh tay lên trần nhà.",
+      "Cong đầu gối và nhấc chân lên, đưa đùi về phía ngực.",
+      "Trong khi giữ phần thân trên ổn định, hãy cong xương chậu về phía ngực, nâng hông ra khỏi thảm.",
+      "Tạm dừng một lúc ở trên cùng, sau đó từ từ hạ hông xuống vị trí bắt đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "eo",
+    "equipment": "trọng lượng cơ thể",
+    "gifUrl": "https://drive.google.com/uc?id=1flbKP9yT-AJvL_gDhbxgef86Gu_6HFrs",
+    "id": 476,
+    "name": "hanging straight twisting leg hip raise",
+    "target": "abs",
+    "secondaryMuscles": ["obliques", "hip flexors"],
+    "instructions": [
+      "Treo người trên thanh kéo với cánh tay duỗi thẳng và chân thẳng.",
+      "Hãy tập trung vào cơ thể và nhấc chân lên về phía ngực, giữ chúng thẳng.",
+      "Khi hai chân đã song song với mặt đất, vặn hông sang một bên, đưa chân về phía đó.",
+      "Tạm dừng một lúc, sau đó quay trở lại vị trí bắt đầu.",
+      "Lặp lại động tác, nhưng lần này vặn hông sang phía đối diện.",
+      "Tiếp tục xen kẽ các bên với số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "eo",
+    "equipment": "cable",
+    "gifUrl": "https://drive.google.com/uc?id=1ncUz8NU_EDtDZLuvWcTe-oPUm7_CPIUI",
+    "id": 222,
+    "name": "cable side bend",
+    "target": "abs",
+    "secondaryMuscles": ["obliques"],
+    "instructions": [
+      "Đứng hai chân rộng bằng vai và nắm lấy tay cầm cáp bằng một tay.",
+      "Giữ lưng thẳng và tập trung vào phần cốt lõi của bạn.",
+      "Từ từ uốn cong sang một bên ở thắt lưng, hạ tay cầm cáp về phía đầu gối của bạn.",
+      "Tạm dừng một lúc, sau đó quay trở lại vị trí bắt đầu.",
+      "Lặp lại ở phía bên kia.",
+      "Thay thế các bên cho số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "eo",
+    "equipment": "band",
+    "gifUrl": "https://drive.google.com/uc?id=1jTIzNBEj6Vo_TUzAylMrCJuP4IgzBXyb",
+    "id": 971,
+    "name": "band assisted wheel rollerout",
+    "target": "abs",
+    "secondaryMuscles": ["lower back"],
+    "instructions": [
+      "Quỳ trên sàn và giữ tay cầm của dây đeo bằng cả hai tay, lòng bàn tay úp xuống.",
+      "Đặt dây đeo trên mặt đất trước mặt bạn và đặt hai tay rộng bằng vai.",
+      "Hãy vận động cơ thể của bạn và từ từ lăn bánh xe về phía trước, kéo dài cơ thể của bạn ra xa nhất có thể trong khi vẫn duy trì khả năng kiểm soát.",
+      "Dừng lại một lúc ở điểm xa nhất, sau đó từ từ lăn bánh xe về phía đầu gối để trở về vị trí ban đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "eo",
+    "equipment": "trọng lượng cơ thể",
+    "gifUrl": "https://drive.google.com/uc?id=18RumZXp2zYEJZ3sfZWYjFLR82ElIZoGm",
+    "id": 687,
+    "name": "russian twist",
+    "target": "abs",
+    "secondaryMuscles": ["obliques"],
+    "instructions": [
+      "Ngồi trên mặt đất với đầu gối cong và bàn chân phẳng trên sàn.",
+      "Nghiêng người về phía sau một chút trong khi giữ thẳng lưng và căng cơ.",
+      "Chắp hai tay trước ngực hoặc cầm tạ nếu muốn.",
+      "Nhấc chân lên khỏi mặt đất, giữ thăng bằng trên xương ngồi.",
+      "Xoay thân mình sang phải, đưa tay hoặc trọng lượng về phía bên phải cơ thể.",
+      "Tạm dừng một lúc, sau đó vặn thân sang trái, đưa tay hoặc trọng lượng về phía bên trái của cơ thể.",
+      "Tiếp tục xen kẽ các bên với số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "eo",
+    "equipment": "cable",
+    "gifUrl": "https://drive.google.com/uc?id=1RsEk1IfVDQ_Ede7A-qhLFFY58mh3gmV7",
+    "id": 175,
+    "name": "cable kneeling crunch",
+    "target": "abs",
+    "secondaryMuscles": ["obliques"],
+    "instructions": [
+      "Gắn tay cầm dây vào ròng rọc cao và quỳ xuống hướng ra xa máy.",
+      "Giữ tay cầm dây bằng cả hai tay và đặt nó ra sau đầu, giữ khuỷu tay của bạn hướng ra hai bên.",
+      "Giữ hông cố định, uốn cong eo và gập thân xuống về phía đùi.",
+      "Tạm dừng một lúc ở phía dưới, sau đó từ từ quay trở lại vị trí bắt đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "lưng",
+    "equipment": "trọng lượng cơ thể",
+    "gifUrl": "https://drive.google.com/uc?id=1X2CZ0N1NTFau6yshYLSkS6FjlgXUopNm",
+    "id": 651,
+    "name": "pull up (neutral grip)",
+    "target": "lats",
+    "secondaryMuscles": ["biceps", "forearms"],
+    "instructions": [
+      "Treo người trên thanh kéo với tay cầm trung tính (lòng bàn tay hướng vào nhau) và cánh tay của bạn mở rộng hoàn toàn.",
+      "Hãy tập trung vào cơ thể của bạn và ép hai xương bả vai của bạn lại với nhau.",
+      "Kéo cơ thể của bạn lên về phía thanh bằng cách uốn cong khuỷu tay của bạn và đẩy khuỷu tay của bạn xuống về phía hông.",
+      "Tiếp tục kéo cho đến khi cằm của bạn ở trên thanh.",
+      "Dừng lại một lúc ở trên cùng, sau đó từ từ hạ cơ thể xuống vị trí ban đầu một cách có kiểm soát.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "vai",
+    "equipment": "barbell",
+    "gifUrl": "https://drive.google.com/uc?id=1ojVBqt3h_77GURm1RVCfCehZADPmS8Wx",
+    "id": 120,
+    "name": "barbell upright row",
+    "target": "delts",
+    "secondaryMuscles": ["traps", "biceps"],
+    "instructions": [
+      "Đứng hai chân rộng bằng vai và cầm một thanh tạ bằng tay, hai tay rộng hơn vai một chút.",
+      "Để thanh tạ treo trước đùi, cánh tay duỗi thẳng hoàn toàn.",
+      "Giữ lưng thẳng và căng cơ, thở ra và nâng thanh tạ thẳng lên về phía cằm, dẫn đầu bằng khuỷu tay.",
+      "Tạm dừng một lúc ở phía trên, sau đó hít vào và từ từ hạ thanh tạ xuống vị trí ban đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "vai",
+    "equipment": "dumbbell",
+    "gifUrl": "https://drive.google.com/uc?id=1GliYfgW4vaVdPOwLh4cwaKvZjoKtycOi",
+    "id": 334,
+    "name": "dumbbell lateral raise",
+    "target": "delts",
+    "secondaryMuscles": ["traps"],
+    "instructions": [
+      "Đứng hai chân rộng bằng vai và cầm một quả tạ ở mỗi tay, lòng bàn tay hướng vào cơ thể.",
+      "Giữ lưng thẳng và tập trung vào cơ thể của bạn.",
+      "Nâng cánh tay của bạn sang hai bên cho đến khi chúng song song với sàn, giữ khuỷu tay hơi cong.",
+      "Tạm dừng một lúc ở trên cùng, sau đó từ từ hạ cánh tay của bạn xuống vị trí bắt đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "đùi",
+    "equipment": "barbell",
+    "gifUrl": "https://drive.google.com/uc?id=1LZpMTJj_Sc5sokYCe4QpsbFssl_ctSa2",
+    "id": 58,
+    "name": "barbell lying lifting (on hip)",
+    "target": "glutes",
+    "secondaryMuscles": ["hamstrings", "quadriceps"],
+    "instructions": [
+      "Nằm ngửa trên ghế, bàn chân đặt phẳng trên mặt đất và đầu gối cong.",
+      "Giữ thanh tạ bằng tay cầm và đặt nó trên hông của bạn.",
+      "Thu hút cơ mông của bạn, nâng hông ra khỏi băng ghế cho đến khi cơ thể tạo thành một đường thẳng từ đầu gối đến vai.",
+      "Tạm dừng một lúc ở trên cùng, sau đó từ từ hạ hông xuống vị trí bắt đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "đùi",
+    "equipment": "barbell",
+    "gifUrl": "https://drive.google.com/uc?id=1CoZ4GBtQ9wwcVO3Pz-B5YbzqlvtDMSFO",
+    "id": 117,
+    "name": "barbell sumo deadlift",
+    "target": "glutes",
+    "secondaryMuscles": ["hamstrings", "quadriceps", "lower back"],
+    "instructions": [
+      "Đứng hai chân rộng hơn vai, ngón chân hướng ra ngoài.",
+      "Đặt một thanh tạ trên mặt đất trước mặt bạn, đặt chính giữa hai bàn chân của bạn.",
+      "Cong đầu gối và hạ thấp hông, giữ thẳng lưng và ưỡn ngực để nắm chặt thanh tạ bằng tay cầm quá mức.",
+      "Sử dụng cơ lõi của bạn và đẩy qua gót chân để nhấc thanh tạ lên khỏi mặt đất, đồng thời mở rộng hông và đầu gối của bạn.",
+      "Khi bạn nâng lên, hãy giữ ngực thẳng và lưng thẳng, đồng thời đẩy hông về phía trước để cơ mông hoạt động hoàn toàn.",
+      "Tạm dừng một lúc ở trên cùng, sau đó từ từ hạ thanh tạ xuống vị trí ban đầu, duy trì sự kiểm soát trong suốt chuyển động.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "đùi",
+    "equipment": "cable",
+    "gifUrl": "https://drive.google.com/uc?id=1Or9PEq01V8b7sgKH3iflT80hTQ4-T_n8",
+    "id": 196,
+    "name": "cable pull through (with rope)",
+    "target": "glutes",
+    "secondaryMuscles": ["hamstrings", "lower back"],
+    "instructions": [
+      "Đứng quay mặt ra xa máy cáp, hai chân rộng bằng vai.",
+      "Nắm lấy phần gắn dây bằng cả hai tay và bước về phía trước, tạo ra lực căng cho dây cáp.",
+      "Cong hông và hạ thấp phần thân trên của bạn cho đến khi song song với mặt đất, giữ thẳng lưng.",
+      "Sử dụng cơ mông và gân kheo để kéo cơ thể trở lại vị trí ban đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "đùi",
+    "equipment": "leverage machine",
+    "gifUrl": "https://drive.google.com/uc?id=169RN-lKdBR_eLpp0fOAM48vNAfDVqkfQ",
+    "id": 586,
+    "name": "lever lying leg curl",
+    "target": "hamstrings",
+    "secondaryMuscles": ["calves"],
+    "instructions": [
+      "Điều chỉnh máy phù hợp với cơ thể và chọn mức tạ mong muốn.",
+      "Nằm úp mặt xuống máy, hai chân duỗi thẳng và gót chân tựa vào cần đệm.",
+      "Nắm chặt tay cầm hoặc các cạnh của máy để ổn định.",
+      "Giữ phần thân trên cố định, thở ra và co chân lên cao nhất có thể mà không nhấc hông ra khỏi đệm.",
+      "Giữ tư thế co lại trong một khoảng dừng ngắn khi bạn siết chặt gân kheo.",
+      "Hít vào và từ từ hạ cần gạt về vị trí ban đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "đùi",
+    "equipment": "leverage machine",
+    "gifUrl": "https://drive.google.com/uc?id=1quAykY0I2_7HQOJmYoQZJDmxkIHX5Y3x",
+    "id": 598,
+    "name": "lever seated hip adduction",
+    "target": "adductors",
+    "secondaryMuscles": ["hamstrings", "glutes"],
+    "instructions": [
+      "Điều chỉnh độ cao của ghế và đặt lưng vào tựa lưng trên máy.",
+      "Đặt chân lên chỗ để chân và nắm lấy tay cầm để giữ thăng bằng.",
+      "Sử dụng các cơ phụ của bạn và từ từ đưa hai chân lại với nhau, siết chặt đùi trong của bạn.",
+      "Tạm dừng một lúc khi đạt mức co tối đa, sau đó từ từ quay trở lại vị trí bắt đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "đùi",
+    "equipment": "dumbbell",
+    "gifUrl": "https://drive.google.com/uc?id=1C9VC2Sc5s6xRHNG8LJV2_GTE3zo90z0l",
+    "id": 2133,
+    "name": "farmers walk",
+    "target": "quads",
+    "secondaryMuscles": ["calves", "forearms", "core"],
+    "instructions": [
+      "Đứng thẳng với một quả tạ ở mỗi tay, lòng bàn tay hướng về phía bạn.",
+      "Giữ lưng thẳng và vai về phía sau.",
+      "Bước những bước nhỏ, có kiểm soát về phía trước, duy trì tư thế thẳng đứng.",
+      "Tiếp tục đi bộ với khoảng cách hoặc thời gian mong muốn.",
+      "Để kết thúc, dừng bước và cẩn thận hạ tạ xuống hai bên."
+    ]
+  },
+  {
+    "bodyPart": "đùi",
+    "equipment": "barbell",
+    "gifUrl": "https://drive.google.com/uc?id=16To7ZKpunF0vQugU4oPsrm3NAjA1Fzzf",
+    "id": 32,
+    "name": "barbell deadlift",
+    "target": "glutes",
+    "secondaryMuscles": ["hamstrings", "lower back"],
+    "instructions": [
+      "Đứng hai chân rộng bằng vai và đặt tạ trên mặt đất trước mặt.",
+      "Cong đầu gối và xoay hông để hạ thấp thân mình và nắm chặt thanh tạ bằng tay cầm quá tay, hai tay rộng hơn vai một chút.",
+      "Giữ lưng thẳng và ngực nâng lên khi bạn di chuyển qua gót chân để nhấc thanh tạ lên khỏi mặt đất, mở rộng hông và đầu gối.",
+      "Khi bạn đứng thẳng, siết chặt cơ mông và giữ cho cơ trung tâm hoạt động.",
+      "Hạ thanh tạ xuống đất bằng cách uốn cong hông và đầu gối, giữ thẳng lưng.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "eo",
+    "equipment": "band",
+    "gifUrl": "https://drive.google.com/uc?id=1jTIzNBEj6Vo_TUzAylMrCJuP4IgzBXyb",
+    "id": 971,
+    "name": "band assisted wheel rollerout",
+    "target": "abs",
+    "secondaryMuscles": ["lower back"],
+    "instructions": [
+      "Quỳ trên sàn và giữ tay cầm của dây đeo bằng cả hai tay, lòng bàn tay úp xuống.",
+      "Đặt dây đeo trên mặt đất trước mặt bạn và đặt hai tay rộng bằng vai.",
+      "Hãy vận động cơ thể của bạn và từ từ lăn bánh xe về phía trước, kéo dài cơ thể của bạn ra xa nhất có thể trong khi vẫn duy trì khả năng kiểm soát.",
+      "Dừng lại một lúc ở điểm xa nhất, sau đó từ từ lăn bánh xe về phía đầu gối để trở về vị trí ban đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "ngực",
+    "equipment": "trọng lượng cơ thể",
+    "gifUrl": "https://drive.google.com/uc?id=1-QLQNbpGdge5V7aoAVYkgjr2BFyKYAcn",
+    "id": 662,
+    "name": "push-up",
+    "target": "pectorals",
+    "secondaryMuscles": ["triceps", "deltoids", "core"],
+    "instructions": [
+      "Bắt đầu ở tư thế plank cao với hai tay rộng hơn vai một chút và hai chân khép vào nhau.",
+      "Tập trung vào cơ thể và hạ thấp cơ thể xuống đất bằng cách uốn cong khuỷu tay, giữ cơ thể thành một đường thẳng.",
+      "Tạm dừng một lúc khi ngực của bạn ở ngay trên mặt đất, sau đó đẩy người trở lại vị trí ban đầu bằng cách duỗi thẳng cánh tay.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "ngực",
+    "equipment": "dumbbell",
+    "gifUrl": "https://drive.google.com/uc?id=1lGFp8VtmpuDXa8wbAfZh7-2-knt8gVu1",
+    "id": 3545,
+    "name": "dumbbell incline alternate press",
+    "target": "pectorals",
+    "secondaryMuscles": ["shoulders", "triceps"],
+    "instructions": [
+      "Ngồi trên ghế nghiêng với một quả tạ ở mỗi tay, đặt trên đùi.",
+      "Dựa lưng vào ghế và dùng đùi để nâng tạ lên cao ngang vai, lòng bàn tay hướng về phía trước.",
+      "Khi ở độ cao ngang vai, xoay cổ tay sao cho lòng bàn tay hướng về phía trước.",
+      "Đẩy tạ lên bằng ngực và vai, duỗi thẳng cánh tay.",
+      "Hạ tạ trở lại vị trí ban đầu, giữ khuỷu tay hơi cong.",
+      "Lặp lại với số lần lặp lại mong muốn, xen kẽ hai cánh tay."
+    ]
+  },
+  {
+    "bodyPart": "ngực",
+    "equipment": "cable",
+    "gifUrl": "https://drive.google.com/uc?id=1xg2fYCA2vzKQoRrjLR0z1bSbDioXUOBj",
+    "id": 188,
+    "name": "cable middle fly",
+    "target": "pectorals",
+    "secondaryMuscles": ["deltoids", "triceps"],
+    "instructions": [
+      "Gắn cáp vào cả hai bên của máy cáp ở độ cao ngang ngực.",
+      "Đứng ở giữa máy, một chân hơi đặt trước chân kia.",
+      "Nắm chặt tay cầm bằng cách cầm quá tay và mở rộng cánh tay của bạn sang hai bên.",
+      "Giữ khuỷu tay hơi cong và hơi nghiêng về phía trước.",
+      "Hãy vận động cơ ngực và đưa cánh tay của bạn về phía trước theo chuyển động quét.",
+      "Tạm dừng một lúc ở trung tâm, sau đó từ từ đưa cánh tay của bạn trở lại vị trí bắt đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "ngực",
+    "equipment": "trọng lượng cơ thể",
+    "gifUrl": "https://drive.google.com/uc?id=1oD169UnylG0QTqxMafove2fyA9FgK5cK",
+    "id": 251,
+    "name": "chest dip",
+    "target": "pectorals",
+    "secondaryMuscles": ["triceps", "shoulders"],
+    "instructions": [
+      "Đặt mình trên các thanh song song với cánh tay mở rộng hoàn toàn và cơ thể thẳng.",
+      "Hạ thấp cơ thể bằng cách uốn cong khuỷu tay cho đến khi vai của bạn ở dưới khuỷu tay.",
+      "Đẩy người trở lại vị trí ban đầu bằng cách duỗi thẳng cánh tay.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "lưng",
+    "equipment": "trọng lượng cơ thể",
+    "gifUrl": "https://drive.google.com/uc?id=1r45063USQrVaGrFxt4o2UJZ-h2y-MPBo",
+    "id": 489,
+    "name": "hyperextension",
+    "target": "spine",
+    "secondaryMuscles": ["glutes", "hamstrings"],
+    "instructions": [
+      "Điều chỉnh băng ghế hạ thế sao cho đùi trên của bạn nằm trên tấm đệm và bàn chân của bạn được cố định.",
+      "Khoanh tay trước ngực hoặc đặt tay ra sau đầu.",
+      "Hạ phần thân trên của bạn xuống đất trong khi giữ thẳng lưng.",
+      "Dừng lại một lúc ở phía dưới, sau đó nâng phần thân trên của bạn lên cho đến khi thẳng hàng với chân bạn.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "vai",
+    "equipment": "dumbbell",
+    "gifUrl": "https://drive.google.com/uc?id=1TKXA32ZQomPETJTOGgjWigyBbvcxI6yf",
+    "id": 864,
+    "name": "dumbbell upright shoulder external rotation",
+    "target": "delts",
+    "secondaryMuscles": ["rotator cuff", "trapezius"],
+    "instructions": [
+      "Đứng hai chân rộng bằng vai và mỗi tay cầm một quả tạ với lòng bàn tay hướng vào cơ thể.",
+      "Nâng cánh tay của bạn sang hai bên cho đến khi chúng song song với mặt đất, giữ cho khuỷu tay hơi cong.",
+      "Xoay cánh tay của bạn ra bên ngoài, đưa thanh tạ lên phía đầu trong khi vẫn giữ khuỷu tay ở vị trí cũ.",
+      "Tạm dừng một lúc ở trên cùng, sau đó từ từ hạ tạ trở lại vị trí bắt đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "vai",
+    "equipment": "barbell",
+    "gifUrl": "https://drive.google.com/uc?id=1QVC3VX7bXEObnOydbt3-50jHVTJ5jRzA",
+    "id": 91,
+    "name": "barbell seated overhead press",
+    "target": "delts",
+    "secondaryMuscles": ["triceps", "upper back"],
+    "instructions": [
+      "Ngồi trên ghế, lưng thẳng và bàn chân đặt phẳng trên mặt đất.",
+      "Giữ thanh tạ bằng tay cầm, rộng hơn vai một chút.",
+      "Nhấc thanh tạ ra khỏi giá và đưa nó ngang vai, khuỷu tay cong và lòng bàn tay hướng về phía trước.",
+      "Nhấn thanh tạ qua đầu bằng cách mở rộng hoàn toàn cánh tay của bạn.",
+      "Tạm dừng một lúc ở đỉnh, sau đó từ từ hạ thanh tạ xuống ngang vai.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "vai",
+    "equipment": "dumbbell",
+    "gifUrl": "https://drive.google.com/uc?id=1GliYfgW4vaVdPOwLh4cwaKvZjoKtycOi",
+    "id": 334,
+    "name": "dumbbell lateral raise",
+    "target": "delts",
+    "secondaryMuscles": ["traps"],
+    "instructions": [
+      "Đứng hai chân rộng bằng vai và cầm một quả tạ ở mỗi tay, lòng bàn tay hướng vào cơ thể.",
+      "Giữ lưng thẳng và tập trung vào cơ thể của bạn.",
+      "Nâng cánh tay của bạn sang hai bên cho đến khi chúng song song với sàn, giữ khuỷu tay hơi cong.",
+      "Tạm dừng một lúc ở trên cùng, sau đó từ từ hạ cánh tay của bạn xuống vị trí bắt đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "vai",
+    "equipment": "dumbbell",
+    "gifUrl": "https://drive.google.com/uc?id=1t7MDbzzJXRLgT4W7mJ_Y1eLtVdqnupRI",
+    "id": 383,
+    "name": "dumbbell reverse fly",
+    "target": "delts",
+    "secondaryMuscles": ["trapezius", "rhomboids"],
+    "instructions": [
+      "Đứng hai chân rộng bằng vai và giữ một quả tạ ở mỗi tay.",
+      "Cong đầu gối của bạn một chút và xoay về phía trước ở hông, giữ thẳng lưng.",
+      "Duỗi thẳng cánh tay xuống trước mặt, lòng bàn tay hướng vào nhau.",
+      "Khuỷu tay hơi cong, giơ hai tay ra hai bên cho đến khi chúng song song với mặt đất.",
+      "Tạm dừng một lúc ở trên cùng, sau đó từ từ hạ cánh tay của bạn xuống vị trí bắt đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "vai",
+    "equipment": "cable",
+    "gifUrl": "https://drive.google.com/uc?id=1QNmFO9z5GP-EZ6qMq_WkXQCh9OkNExvV",
+    "id": 233,
+    "name": "cable standing rear delt row (with rope)",
+    "target": "delts",
+    "secondaryMuscles": ["trapezius", "rhomboids", "biceps"],
+    "instructions": [
+      "Đứng đối diện với máy cáp với hai chân rộng bằng vai.",
+      "Giữ phần gắn cáp bằng cả hai tay, lòng bàn tay hướng vào nhau và lùi lại để tạo lực căng cho cáp.",
+      "Giữ lưng thẳng và tập trung vào phần cốt lõi của bạn.",
+      "Kéo dây cáp về phía cơ thể, ép hai bả vai lại với nhau.",
+      "Tạm dừng một lúc ở đỉnh chuyển động, sau đó từ từ thả cáp trở lại vị trí bắt đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "bắp tay",
+    "equipment": "cable",
+    "gifUrl": "https://drive.google.com/uc?id=1F3ZEc2kmj9iEFzonus01EgNPBAolkSfD",
+    "id": 241,
+    "name": "cable triceps pushdown (v-bar)",
+    "target": "triceps",
+    "secondaryMuscles": ["forearms"],
+    "instructions": [
+      "Gắn phụ kiện thanh chữ v vào máy cáp ở cài đặt cao nhất.",
+      "Đứng đối diện với máy cáp, hai chân rộng bằng vai.",
+      "Nắm thanh chữ V bằng tay cầm quá tay, lòng bàn tay úp xuống và hai tay rộng bằng vai.",
+      "Giữ khuỷu tay của bạn sát hai bên và cánh tay trên cố định trong suốt bài tập.",
+      "Siết chặt cơ tam đầu và thở ra khi bạn đẩy thanh chữ v xuống cho đến khi cánh tay của bạn được mở rộng hoàn toàn.",
+      "Tạm dừng một lúc ở cuối chuyển động, siết chặt cơ tam đầu của bạn.",
+      "Hít vào khi bạn từ từ đưa thanh v về vị trí bắt đầu, duy trì sự kiểm soát.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "bắp tay",
+    "equipment": "barbell",
+    "gifUrl": "https://drive.google.com/uc?id=1_iGrNA8dQVmBcasUpP45J5L6znIWIWv7",
+    "id": 80,
+    "name": "barbell reverse curl",
+    "target": "biceps",
+    "secondaryMuscles": ["forearms"],
+    "instructions": [
+      "Đứng thẳng, hai chân rộng bằng vai và cầm một thanh tạ bằng tay, lòng bàn tay hướng xuống.",
+      "Giữ cánh tay trên cố định và thở ra khi bạn cuộn thanh tạ lên trên, co bắp tay lại.",
+      "Tiếp tục nâng thanh tạ cho đến khi bắp tay của bạn căng hoàn toàn và thanh tạ ở ngang vai.",
+      "Giữ tư thế co lại trong một khoảng dừng ngắn khi bạn siết chặt bắp tay.",
+      "Hít vào khi bạn từ từ hạ tạ xuống vị trí ban đầu, giữ cố định cánh tay trên.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "bắp tay",
+    "equipment": "dumbbell",
+    "gifUrl": "https://drive.google.com/uc?id=1-mBDcpxkLuQ4YGTsR70XU2ybZUFWsVAK",
+    "id": 1657,
+    "name": "dumbbell cross body hammer curl v. 2",
+    "target": "biceps",
+    "secondaryMuscles": ["forearms"],
+    "instructions": [
+      "Đứng thẳng với một quả tạ ở mỗi tay, lòng bàn tay hướng vào cơ thể.",
+      "Giữ khuỷu tay của bạn gần với thân mình và cánh tay trên của bạn cố định.",
+      "Thở ra và cuộn tạ trong khi co bắp tay lại, đưa tạ càng gần vai đối diện càng tốt.",
+      "Giữ tư thế co lại trong một khoảng dừng ngắn khi bạn siết chặt bắp tay.",
+      "Hít vào và từ từ bắt đầu hạ tạ xuống vị trí ban đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "bắp tay",
+    "equipment": "dumbbell",
+    "gifUrl": "https://drive.google.com/uc?id=1uDLlceJXIHGTlE0EAb3wMc2SiCGFzNhy",
+    "id": 333,
+    "name": "dumbbell kickback",
+    "target": "triceps",
+    "secondaryMuscles": ["shoulders"],
+    "instructions": [
+      "Đứng hai chân rộng bằng vai và giữ một quả tạ ở mỗi tay.",
+      "Cong đầu gối của bạn một chút và xoay về phía trước ở hông, giữ thẳng lưng.",
+      "Đưa cánh tay trên của bạn sát vào hai bên, khuỷu tay uốn cong một góc 90 độ.",
+      "Duỗi thẳng cánh tay về phía sau, siết chặt cơ tam đầu ở đầu động tác.",
+      "Dừng lại một lúc rồi từ từ hạ tạ xuống vị trí ban đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "đùi",
+    "equipment": "trọng lượng cơ thể",
+    "gifUrl": "https://drive.google.com/uc?id=1dQvvvlY7CHbb_9YHasimv485ItYwcQU6",
+    "id": 3193,
+    "name": "glute-ham raise",
+    "target": "hamstrings",
+    "secondaryMuscles": ["glutes", "lower back"],
+    "instructions": [
+      "Điều chỉnh máy tập cơ mông để phù hợp với cơ thể bạn.",
+      "Đặt mình úp mặt xuống máy với mắt cá chân được cố định.",
+      "Đặt tay lên ngực hoặc bắt chéo chúng trên ngực.",
+      "Sử dụng cơ gân kheo và cơ mông để nâng phần thân trên của bạn lên phía trần nhà.",
+      "Tiếp tục nâng cho đến khi cơ thể tạo thành một đường thẳng từ đầu đến gót chân.",
+      "Dừng lại một lúc ở trên cùng, sau đó từ từ hạ cơ thể xuống vị trí ban đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+  {
+    "bodyPart": "đùi",
+    "equipment": "dumbbell",
+    "gifUrl": "https://drive.google.com/uc?id=1Mg4-gfvJXJcK5n7p25gUlcN9AdMoo_-d",
+    "id": 410,
+    "name": "dumbbell single leg split squat",
+    "target": "quads",
+    "secondaryMuscles": ["glutes", "hamstrings", "calves"],
+    "instructions": [
+      "Đứng hai chân rộng bằng vai, mỗi tay cầm một quả tạ.",
+      "Bước một bước về phía trước bằng một chân và đặt chân sao cho bàn chân trước đặt phẳng trên mặt đất và bàn chân sau nâng cao trên ghế dài hoặc bậc thang.",
+      "Hạ thấp cơ thể bằng cách uốn cong đầu gối trước và hông, giữ đầu gối sau hơi cong và gót chân sau cách khỏi mặt đất.",
+      "Tiếp tục hạ thấp cho đến khi đùi trước song song với mặt đất, sau đó đẩy qua gót chân trước để trở về vị trí ban đầu.",
+      "Lặp lại số lần mong muốn, sau đó đổi chân và lặp lại."
+    ]
+  },
+  {
+    "bodyPart": "cẳng chân",
+    "equipment": "smith machine",
+    "gifUrl": "https://drive.google.com/uc?id=1cJI_fal01M6HzVwjbHS3Kd3_0pObc9s1",
+    "id": 763,
+    "name": "smith reverse calf raises",
+    "target": "calves",
+    "secondaryMuscles": ["hamstrings"],
+    "instructions": [
+      "Điều chỉnh thanh máy rèn ở độ cao ngay dưới vai của bạn.",
+      "Đứng đối diện với thanh đòn, hai chân rộng bằng hông và ngón chân hướng về phía trước.",
+      "Đặt lòng bàn chân lên mép bậc thang hoặc bệ, gót chân buông thõng.",
+      "Giữ chặt thanh đòn để được hỗ trợ, giữ lưng thẳng và căng cơ.",
+      "Nâng gót chân lên cao nhất có thể, nâng trọng lượng cơ thể lên phần mu bàn chân.",
+      "Tạm dừng một lúc ở phía trên, sau đó từ từ hạ gót chân xuống vị trí bắt đầu.",
+      "Lặp lại số lần lặp lại mong muốn."
+    ]
+  },
+]
